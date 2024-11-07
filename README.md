@@ -1,6 +1,6 @@
 <!-- Your Name and Title -->
 <h1 align="center">Hi 👋, I'm Khushi Chauhan</h1>
-<h3 align="center">Aspiring Mern Stack Developer | Coding Enthusiast | Open Source Contributor</h3>
+<h3 align="center">MERN Stack Developer | Coding Enthusiast | Open Source Contributor</h3>
 
 <!-- GIF Image -->
 <p align="center">
@@ -40,10 +40,16 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
 
 ---
 
@@ -56,9 +62,11 @@
 
 ---
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+## GSSOC(24) and Hacktoberfest Badges 🪶
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <!-- GSSOC Badges -->
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
@@ -69,13 +77,23 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
+  </a>
+  <!-- Hacktoberfest Badges -->
+  <a href="https://hacktoberfest.com/">
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100px" height="100px" />
+  </a>
 </div>
 
 ---
 
 ### 💡 Current Learning:
-<p align="center">🌱 I am currently learning <b>MERN Stack Development</b> (MongoDB, Express, React, Node.js).</p>
+<p align="center">🌱 I am currently learning <b>MERN Stack Development</b> (MongoDB, Express, React, Node.js) and exploring production-ready tools.</p>
 
 ---
 
