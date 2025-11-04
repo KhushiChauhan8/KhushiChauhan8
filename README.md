@@ -11,7 +11,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 <p align="center">
-  🌱 I'm currently pursuing a <b>Bachelor of Computer Application</b> and diving deep into the exciting world of <b>web development</b>.<br>
+  🌱 I'm currently pursuing a <b>Master of Computer Application</b> and diving deep into the exciting world of <b>web development</b>.<br>
   💡 I’m passionate about building <b>innovative projects</b> that enhance <b>user experience</b> and making meaningful contributions to <b>open source</b>.<br>
   💞 I’m always looking to collaborate on exciting web development projects that push boundaries and create impact.<br>
   📌 <b>Let’s connect</b> on my social media:<br>
@@ -98,7 +98,7 @@
 ---
 
 ### 🤝 Let's Collaborate:
-<p align="center">I love collaborating on open-source projects and web development work. Feel free to reach out to me at <a href="mailto:kc6478576@gmail.com"><b>kc6478576@gmail.com</b></a>.</p>
+<p align="center">I love collaborating on open-source projects and web development work. Feel free to reach out to me at <a href="mailto:khushic1233@gmail.com"><b>khushic1233@gmail.com</b></a>.</p>
 
 ---
 
